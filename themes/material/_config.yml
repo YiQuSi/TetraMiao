@@ -28,12 +28,12 @@ url:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Paradox
-#scheme: Isolation
+#scheme: Paradox
+scheme: Isolation
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Hi, nice to meet you"
+    slogan: "无论是谁，我都暂且表示欢迎。"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
@@ -167,27 +167,27 @@ toc:
 
 # SNS Menu
 sns:
-    email: youremail@email.com
-    facebook: "https://www.facebook.com/facebook"
-    twitter: "https://twitter.com/twitter"
-    googleplus: "https://www.google.com/"
-    weibo:
-    instagram:
-    tumblr:
-    github:
-    linkedin:
-    zhihu:
-    bilibili:
-    telegram:
-    v2ex:
-    segmentfault:
+    email: 2813443253@qq.com
+    #facebook: "https://www.facebook.com/facebook"
+    #twitter: "https://twitter.com/twitter"
+    #googleplus: "https://www.google.com/"
+    #weibo:
+    #instagram:
+    #tumblr:
+    github: "https://github.com/YiQuSi"
+    #linkedin:
+    #zhihu:
+    bilibili: "https://space.bilibili.com/237504011"
+    #telegram:
+    #v2ex:
+    #segmentfault:
 
 # SNS Share Switch
 sns_share:
-    twitter: true
-    facebook: true
-    googleplus: true
-    weibo: true
+    twitter: false
+    facebook: false
+    googleplus: false
+    weibo: false
     linkedin: false
     qq: false
     telegram: false
@@ -274,7 +274,7 @@ comment:
 # Available value:
 #     swiftype | google | local
 search:
-    use: google
+    use: baidu
     swiftype_key:
 
 # Analytics Systems
